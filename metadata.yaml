@@ -1,0 +1,31 @@
+_repo: A-bihari-remete--s-egy-b-t-rt-netek_20169
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kárpáti, Aurél
+    alias: Karpati, Aurel
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '9121'
+    url: http://www.gutenberg.org/2009/agents/9121
+    wikipedia: http://hu.wikipedia.org/wiki/K%C3%A1rp%C3%A1ti_Aur%C3%A9l_%28%C3%ADr%C3%B3%29
+description: ''
+gutenberg_issued: '2006-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20169'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: Az aedilis -- A tábornok -- A bihari remete -- Lullus Raymundus --
+  Őszi hegedűk -- Öreg Sinka György -- Ördögszekér -- Stratfordi hajnal.
+title: A bihari remete, és egyéb történetek
+url: http://www.gutenberg.org/ebooks/20169
